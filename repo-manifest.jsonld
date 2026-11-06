@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/facebookresearch/recipes/commit/0e70491af39fd63b1d76aa2acb62f1eb83ae441b",
       "git:hexsha": "0e70491af39fd63b1d76aa2acb62f1eb83ae441b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v2026.10.26.00"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2026.10.26.00",
+      "repolex:parsedAt": "2026-11-06T07:55:50.269505+00:00"
     },
     {
       "@id": "https://repolex.ai/r/facebookresearch/recipes/commit/49d806bd63d9941997530d7a739d5b86c345e92f",
